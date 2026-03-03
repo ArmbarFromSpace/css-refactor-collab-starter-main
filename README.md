@@ -155,7 +155,7 @@ A good commit message is short and says _what changed and why_:
 - ❌ `Update components.css`
 - ❌ `asdfasdf`
 
-#### Communicate With Your Team
+#### Communicate With Your Teamz
 
 Before you start editing, tell your teammates which file you're working in. A quick "I'm in `components.css`" goes a long way toward avoiding conflicts.
 
