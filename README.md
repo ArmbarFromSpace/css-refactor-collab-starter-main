@@ -87,6 +87,10 @@ Here are the categories of problems hiding in this codebase. You don't need to f
 
 **Design system disconnects** — Are colours hardcoded throughout the files when they could be defined once as a CSS custom property? Look for the same hex value appearing over and over. Centralising these makes future changes much easier.
 
+### TODO
+
+-
+
 #### Tips
 
 - Open each CSS file and read it top to bottom. Don't skim.
