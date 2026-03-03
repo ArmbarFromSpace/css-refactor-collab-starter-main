@@ -90,8 +90,9 @@ Here are the categories of problems hiding in this codebase. You don't need to f
 ### TODO
 css/components line 16+ need to add color and border color. add focus-visible style on buttons for keyboard users.
 
-css/components line 25 background color is the same as hover - make backbround color white.
--
+- line 10 in the fonts.css has a margin of 0 which is pointless
+- remove inline comments from fonts.css line 80
+- address the FIXME and TODO at line 58 and 98
 
 #### Tips
 
