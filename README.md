@@ -89,6 +89,8 @@ Here are the categories of problems hiding in this codebase. You don't need to f
 
 ### TODO
 
+1. line 10 in the fonts.css has a margin of 0 which is pointless
+
 -
 
 #### Tips
