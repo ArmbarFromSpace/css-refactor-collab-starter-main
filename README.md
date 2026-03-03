@@ -97,8 +97,10 @@ Here are the categories of problems hiding in this codebase. You don't need to f
 - inex.html line 110 change from section dark to section
 - btn line 25 needs background color change.
 - change the 1st line in the fonts.css file to incorporate the fonts downloaded to the repo
--fix me line 153 components - combine rules that share the same properties
--fix me line 153 components - add focus style with visible border
+  -fix me line 153 components - combine rules that share the same properties
+  -fix me line 153 components - add focus style with visible border
+- change .container narrow to be narrower than container in layout.css
+
 #### Tips
 
 - Open each CSS file and read it top to bottom. Don't skim.
