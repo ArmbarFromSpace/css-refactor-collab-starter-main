@@ -168,11 +168,7 @@ If you push and get an error, or if you pull and VS Code shows you a file with c
 You'll see something like this in the file:
 
 ```
-<<<<<<< HEAD
-Your version of the code
-=======
 Your teammate's version of the code
->>>>>>> abc123
 ```
 
 #### What to Do
