@@ -89,14 +89,13 @@ Here are the categories of problems hiding in this codebase. You don't need to f
 
 ### TODO
 
--css/components line 16+ need to add color and border color. add focus-visible style on buttons for keyboard users.
-
+- css/components line 16+ need to add color and border color. add focus-visible style on buttons for keyboard users.
 - line 10 in the fonts.css has a margin of 0 which is pointless
 - remove inline comments from fonts.css line 80
 - address the FIXME and TODO at line 58 and 98
--btn line 25 needs background color change.
--inex.html line 110 change from section dark to section 
-  -btn line 25 needs background color change.
+- btn line 25 needs background color change.
+- inex.html line 110 change from section dark to section
+- btn line 25 needs background color change.
 - change the 1st line in the fonts.css file to incorporate the fonts downloaded to the repo
 
 #### Tips
