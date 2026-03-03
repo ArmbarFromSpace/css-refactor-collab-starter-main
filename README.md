@@ -94,6 +94,7 @@ Here are the categories of problems hiding in this codebase. You don't need to f
 - remove inline comments from fonts.css line 80
 - address the FIXME and TODO at line 58 and 98
 -btn line 25 needs background color change.
+-inex.html line 110 change from section dark to section 
 
 #### Tips
 
