@@ -4,6 +4,7 @@
 
 - [Jeremy Wlasitz](https://github.com/wlasitz-jeremy)
 - [Dylan Carson](https://github.com/ArmbarFromSpace)
+- [Corbin Nurse](https://github.com/Corbinnurse)
 
 ---
 
